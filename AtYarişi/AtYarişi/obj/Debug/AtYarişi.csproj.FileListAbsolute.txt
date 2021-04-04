@@ -1,0 +1,20 @@
+C:\Users\BAYRAK\Desktop\At Yarışı\AtYarişi\AtYarişi\bin\Debug\AtYarişi.exe.config
+C:\Users\BAYRAK\Desktop\At Yarışı\AtYarişi\AtYarişi\bin\Debug\AtYarişi.exe
+C:\Users\BAYRAK\Desktop\At Yarışı\AtYarişi\AtYarişi\bin\Debug\AtYarişi.pdb
+C:\Users\BAYRAK\Desktop\At Yarışı\AtYarişi\AtYarişi\obj\Debug\AtYarişi.csprojAssemblyReference.cache
+C:\Users\BAYRAK\Desktop\At Yarışı\AtYarişi\AtYarişi\obj\Debug\AtYarişi.Form1.resources
+C:\Users\BAYRAK\Desktop\At Yarışı\AtYarişi\AtYarişi\obj\Debug\AtYarişi.Properties.Resources.resources
+C:\Users\BAYRAK\Desktop\At Yarışı\AtYarişi\AtYarişi\obj\Debug\AtYarişi.csproj.GenerateResource.cache
+C:\Users\BAYRAK\Desktop\At Yarışı\AtYarişi\AtYarişi\obj\Debug\AtYarişi.csproj.CoreCompileInputs.cache
+C:\Users\BAYRAK\Desktop\At Yarışı\AtYarişi\AtYarişi\obj\Debug\AtYarişi.exe
+C:\Users\BAYRAK\Desktop\At Yarışı\AtYarişi\AtYarişi\obj\Debug\AtYarişi.pdb
+C:\Users\BAYRAK\Desktop\c# uygulama\At Yarışı\AtYarişi\AtYarişi\bin\Debug\AtYarişi.exe.config
+C:\Users\BAYRAK\Desktop\c# uygulama\At Yarışı\AtYarişi\AtYarişi\bin\Debug\AtYarişi.exe
+C:\Users\BAYRAK\Desktop\c# uygulama\At Yarışı\AtYarişi\AtYarişi\bin\Debug\AtYarişi.pdb
+C:\Users\BAYRAK\Desktop\c# uygulama\At Yarışı\AtYarişi\AtYarişi\obj\Debug\AtYarişi.csprojAssemblyReference.cache
+C:\Users\BAYRAK\Desktop\c# uygulama\At Yarışı\AtYarişi\AtYarişi\obj\Debug\AtYarişi.Form1.resources
+C:\Users\BAYRAK\Desktop\c# uygulama\At Yarışı\AtYarişi\AtYarişi\obj\Debug\AtYarişi.Properties.Resources.resources
+C:\Users\BAYRAK\Desktop\c# uygulama\At Yarışı\AtYarişi\AtYarişi\obj\Debug\AtYarişi.csproj.GenerateResource.cache
+C:\Users\BAYRAK\Desktop\c# uygulama\At Yarışı\AtYarişi\AtYarişi\obj\Debug\AtYarişi.csproj.CoreCompileInputs.cache
+C:\Users\BAYRAK\Desktop\c# uygulama\At Yarışı\AtYarişi\AtYarişi\obj\Debug\AtYarişi.exe
+C:\Users\BAYRAK\Desktop\c# uygulama\At Yarışı\AtYarişi\AtYarişi\obj\Debug\AtYarişi.pdb
